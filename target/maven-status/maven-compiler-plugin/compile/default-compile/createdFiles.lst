@@ -1,0 +1,7 @@
+com\mycompagny\projet\dao\HibernateDAO.class
+com\mycompagny\projet\entity\Course.class
+com\mycompagny\projet\entity\Location.class
+com\mycompany\projet\App0.class
+com\mycompagny\projet\entity\Client.class
+com\mycompagny\projet\util\HibernateUtil.class
+com\mycompagny\projet\entity\CourseSession.class
